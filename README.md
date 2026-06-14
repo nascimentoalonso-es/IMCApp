@@ -1,8 +1,8 @@
 # Calculadora de IMC
 
 **Disciplina:** Programacao para Dispositivos Moveis em Android  
-**Professor:** Julio Cartier  
-**Aluno(s):** _(seu nome aqui)_
+**Professor:** Julio   
+**Aluno(s):**  Alonso
 
 ---
 
