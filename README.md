@@ -55,7 +55,7 @@ Delete: exclusao individual ou total dos registros.
 **Instalacao**
 
 ```bash
-git clone https://github.com/SEU_USUARIO/IMCApp.git
+git clone https://github.com/nascimentoalonso-es/IMCApp.git
 cd IMCApp
 npm install dexie dexie-react-hooks
 npm install @react-navigation/native @react-navigation/bottom-tabs
